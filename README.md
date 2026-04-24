@@ -1,5 +1,5 @@
 # ihcux-copa-2026
-DDE: 29 abr 2026 - Prof Daniel  
+**DDE:** 29 abr 2026 - Prof Daniel  
 **NOME:** Mariana de Paula Duarte  
 **RA:** 4261214425  
 **CURSO:** Ciência da Computação
